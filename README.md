@@ -1,5 +1,4 @@
 # Manav-Kasa-Programi
-Manav Kasa Programi
 
 ## Java Programlama Dilinde Manav Kasa Programi
 
